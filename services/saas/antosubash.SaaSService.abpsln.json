@@ -1,0 +1,7 @@
+{
+  "modules": {
+    "antosubash.SaaSService": {
+      "path": "antosubash.SaaSService.abpmdl.json"
+    }
+  }
+}

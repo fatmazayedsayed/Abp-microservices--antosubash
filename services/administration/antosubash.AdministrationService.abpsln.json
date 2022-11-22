@@ -1,0 +1,7 @@
+{
+  "modules": {
+    "antosubash.AdministrationService": {
+      "path": "antosubash.AdministrationService.abpmdl.json"
+    }
+  }
+}

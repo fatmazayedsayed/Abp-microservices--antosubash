@@ -1,0 +1,79 @@
+{
+  "folders": {
+    "items": {
+      "src": {},
+      "test": {},
+      "host": {}
+    }
+  },
+  "packages": {
+    "antosubash.AdministrationService.Domain.Shared": {
+      "path": "src/antosubash.AdministrationService.Domain.Shared/antosubash.AdministrationService.Domain.Shared.abppkg.json",
+      "folder": "src"
+    },
+    "antosubash.AdministrationService.Domain": {
+      "path": "src/antosubash.AdministrationService.Domain/antosubash.AdministrationService.Domain.abppkg.json",
+      "folder": "src"
+    },
+    "antosubash.AdministrationService.Application.Contracts": {
+      "path": "src/antosubash.AdministrationService.Application.Contracts/antosubash.AdministrationService.Application.Contracts.abppkg.json",
+      "folder": "src"
+    },
+    "antosubash.AdministrationService.Application": {
+      "path": "src/antosubash.AdministrationService.Application/antosubash.AdministrationService.Application.abppkg.json",
+      "folder": "src"
+    },
+    "antosubash.AdministrationService.EntityFrameworkCore": {
+      "path": "src/antosubash.AdministrationService.EntityFrameworkCore/antosubash.AdministrationService.EntityFrameworkCore.abppkg.json",
+      "folder": "src"
+    },
+    "antosubash.AdministrationService.MongoDB": {
+      "path": "src/antosubash.AdministrationService.MongoDB/antosubash.AdministrationService.MongoDB.abppkg.json",
+      "folder": "src"
+    },
+    "antosubash.AdministrationService.HttpApi": {
+      "path": "src/antosubash.AdministrationService.HttpApi/antosubash.AdministrationService.HttpApi.abppkg.json",
+      "folder": "src"
+    },
+    "antosubash.AdministrationService.HttpApi.Client": {
+      "path": "src/antosubash.AdministrationService.HttpApi.Client/antosubash.AdministrationService.HttpApi.Client.abppkg.json",
+      "folder": "src"
+    },
+    "antosubash.AdministrationService.TestBase": {
+      "path": "test/antosubash.AdministrationService.TestBase/antosubash.AdministrationService.TestBase.abppkg.json",
+      "folder": "test"
+    },
+    "antosubash.AdministrationService.EntityFrameworkCore.Tests": {
+      "path": "test/antosubash.AdministrationService.EntityFrameworkCore.Tests/antosubash.AdministrationService.EntityFrameworkCore.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "antosubash.AdministrationService.MongoDB.Tests": {
+      "path": "test/antosubash.AdministrationService.MongoDB.Tests/antosubash.AdministrationService.MongoDB.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "antosubash.AdministrationService.Domain.Tests": {
+      "path": "test/antosubash.AdministrationService.Domain.Tests/antosubash.AdministrationService.Domain.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "antosubash.AdministrationService.Application.Tests": {
+      "path": "test/antosubash.AdministrationService.Application.Tests/antosubash.AdministrationService.Application.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "antosubash.AdministrationService.HttpApi.Host": {
+      "path": "host/antosubash.AdministrationService.HttpApi.Host/antosubash.AdministrationService.HttpApi.Host.abppkg.json",
+      "folder": "host"
+    },
+    "antosubash.AdministrationService.HttpApi.Client.ConsoleTestApp": {
+      "path": "test/antosubash.AdministrationService.HttpApi.Client.ConsoleTestApp/antosubash.AdministrationService.HttpApi.Client.ConsoleTestApp.abppkg.json",
+      "folder": "test"
+    },
+    "antosubash.AdministrationService.AuthServer": {
+      "path": "host/antosubash.AdministrationService.AuthServer/antosubash.AdministrationService.AuthServer.abppkg.json",
+      "folder": "host"
+    },
+    "antosubash.AdministrationService.Host.Shared": {
+      "path": "host/antosubash.AdministrationService.Host.Shared/antosubash.AdministrationService.Host.Shared.abppkg.json",
+      "folder": "host"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "folders": {
+    "items": {
+      "src": {},
+      "test": {},
+      "host": {}
+    }
+  },
+  "packages": {
+    "antosubash.SaaSService.Domain.Shared": {
+      "path": "src/antosubash.SaaSService.Domain.Shared/antosubash.SaaSService.Domain.Shared.abppkg.json",
+      "folder": "src"
+    },
+    "antosubash.SaaSService.Domain": {
+      "path": "src/antosubash.SaaSService.Domain/antosubash.SaaSService.Domain.abppkg.json",
+      "folder": "src"
+    },
+    "antosubash.SaaSService.Application.Contracts": {
+      "path": "src/antosubash.SaaSService.Application.Contracts/antosubash.SaaSService.Application.Contracts.abppkg.json",
+      "folder": "src"
+    },
+    "antosubash.SaaSService.Application": {
+      "path": "src/antosubash.SaaSService.Application/antosubash.SaaSService.Application.abppkg.json",
+      "folder": "src"
+    },
+    "antosubash.SaaSService.EntityFrameworkCore": {
+      "path": "src/antosubash.SaaSService.EntityFrameworkCore/antosubash.SaaSService.EntityFrameworkCore.abppkg.json",
+      "folder": "src"
+    },
+    "antosubash.SaaSService.MongoDB": {
+      "path": "src/antosubash.SaaSService.MongoDB/antosubash.SaaSService.MongoDB.abppkg.json",
+      "folder": "src"
+    },
+    "antosubash.SaaSService.HttpApi": {
+      "path": "src/antosubash.SaaSService.HttpApi/antosubash.SaaSService.HttpApi.abppkg.json",
+      "folder": "src"
+    },
+    "antosubash.SaaSService.HttpApi.Client": {
+      "path": "src/antosubash.SaaSService.HttpApi.Client/antosubash.SaaSService.HttpApi.Client.abppkg.json",
+      "folder": "src"
+    },
+    "antosubash.SaaSService.TestBase": {
+      "path": "test/antosubash.SaaSService.TestBase/antosubash.SaaSService.TestBase.abppkg.json",
+      "folder": "test"
+    },
+    "antosubash.SaaSService.EntityFrameworkCore.Tests": {
+      "path": "test/antosubash.SaaSService.EntityFrameworkCore.Tests/antosubash.SaaSService.EntityFrameworkCore.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "antosubash.SaaSService.MongoDB.Tests": {
+      "path": "test/antosubash.SaaSService.MongoDB.Tests/antosubash.SaaSService.MongoDB.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "antosubash.SaaSService.Domain.Tests": {
+      "path": "test/antosubash.SaaSService.Domain.Tests/antosubash.SaaSService.Domain.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "antosubash.SaaSService.Application.Tests": {
+      "path": "test/antosubash.SaaSService.Application.Tests/antosubash.SaaSService.Application.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "antosubash.SaaSService.HttpApi.Host": {
+      "path": "host/antosubash.SaaSService.HttpApi.Host/antosubash.SaaSService.HttpApi.Host.abppkg.json",
+      "folder": "host"
+    },
+    "antosubash.SaaSService.HttpApi.Client.ConsoleTestApp": {
+      "path": "test/antosubash.SaaSService.HttpApi.Client.ConsoleTestApp/antosubash.SaaSService.HttpApi.Client.ConsoleTestApp.abppkg.json",
+      "folder": "test"
+    },
+    "antosubash.SaaSService.AuthServer": {
+      "path": "host/antosubash.SaaSService.AuthServer/antosubash.SaaSService.AuthServer.abppkg.json",
+      "folder": "host"
+    },
+    "antosubash.SaaSService.Host.Shared": {
+      "path": "host/antosubash.SaaSService.Host.Shared/antosubash.SaaSService.Host.Shared.abppkg.json",
+      "folder": "host"
+    }
+  }
+}

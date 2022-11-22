@@ -1,0 +1,3 @@
+create empty folder->open it inside vs code
+create file init.ps1->paste the code inside it
+from power shell run .\init.ps1 {folder_name} that will create the solution

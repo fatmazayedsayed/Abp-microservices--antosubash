@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <Import Project="..\..\common.props" />
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>antosubash.AdministrationService</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.2.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Proxies" Version="6.0.5" />
+    <ProjectReference Include="..\..\src\antosubash.AdministrationService.EntityFrameworkCore\antosubash.AdministrationService.EntityFrameworkCore.csproj" />
+    <ProjectReference Include="..\antosubash.AdministrationService.TestBase\antosubash.AdministrationService.TestBase.csproj" />
+    <PackageReference Include="Volo.Abp.EntityFrameworkCore.Sqlite" Version="6.0.1" />
+  </ItemGroup>
+
+</Project>

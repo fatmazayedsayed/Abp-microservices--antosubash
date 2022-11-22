@@ -1,0 +1,7 @@
+{
+  "modules": {
+    "antosubash.IdentityService": {
+      "path": "antosubash.IdentityService.abpmdl.json"
+    }
+  }
+}

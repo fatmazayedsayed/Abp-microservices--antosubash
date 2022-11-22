@@ -1,0 +1,79 @@
+{
+  "folders": {
+    "items": {
+      "src": {},
+      "test": {},
+      "host": {}
+    }
+  },
+  "packages": {
+    "antosubash.IdentityService.Domain.Shared": {
+      "path": "src/antosubash.IdentityService.Domain.Shared/antosubash.IdentityService.Domain.Shared.abppkg.json",
+      "folder": "src"
+    },
+    "antosubash.IdentityService.Domain": {
+      "path": "src/antosubash.IdentityService.Domain/antosubash.IdentityService.Domain.abppkg.json",
+      "folder": "src"
+    },
+    "antosubash.IdentityService.Application.Contracts": {
+      "path": "src/antosubash.IdentityService.Application.Contracts/antosubash.IdentityService.Application.Contracts.abppkg.json",
+      "folder": "src"
+    },
+    "antosubash.IdentityService.Application": {
+      "path": "src/antosubash.IdentityService.Application/antosubash.IdentityService.Application.abppkg.json",
+      "folder": "src"
+    },
+    "antosubash.IdentityService.EntityFrameworkCore": {
+      "path": "src/antosubash.IdentityService.EntityFrameworkCore/antosubash.IdentityService.EntityFrameworkCore.abppkg.json",
+      "folder": "src"
+    },
+    "antosubash.IdentityService.MongoDB": {
+      "path": "src/antosubash.IdentityService.MongoDB/antosubash.IdentityService.MongoDB.abppkg.json",
+      "folder": "src"
+    },
+    "antosubash.IdentityService.HttpApi": {
+      "path": "src/antosubash.IdentityService.HttpApi/antosubash.IdentityService.HttpApi.abppkg.json",
+      "folder": "src"
+    },
+    "antosubash.IdentityService.HttpApi.Client": {
+      "path": "src/antosubash.IdentityService.HttpApi.Client/antosubash.IdentityService.HttpApi.Client.abppkg.json",
+      "folder": "src"
+    },
+    "antosubash.IdentityService.TestBase": {
+      "path": "test/antosubash.IdentityService.TestBase/antosubash.IdentityService.TestBase.abppkg.json",
+      "folder": "test"
+    },
+    "antosubash.IdentityService.EntityFrameworkCore.Tests": {
+      "path": "test/antosubash.IdentityService.EntityFrameworkCore.Tests/antosubash.IdentityService.EntityFrameworkCore.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "antosubash.IdentityService.MongoDB.Tests": {
+      "path": "test/antosubash.IdentityService.MongoDB.Tests/antosubash.IdentityService.MongoDB.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "antosubash.IdentityService.Domain.Tests": {
+      "path": "test/antosubash.IdentityService.Domain.Tests/antosubash.IdentityService.Domain.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "antosubash.IdentityService.Application.Tests": {
+      "path": "test/antosubash.IdentityService.Application.Tests/antosubash.IdentityService.Application.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "antosubash.IdentityService.HttpApi.Host": {
+      "path": "host/antosubash.IdentityService.HttpApi.Host/antosubash.IdentityService.HttpApi.Host.abppkg.json",
+      "folder": "host"
+    },
+    "antosubash.IdentityService.HttpApi.Client.ConsoleTestApp": {
+      "path": "test/antosubash.IdentityService.HttpApi.Client.ConsoleTestApp/antosubash.IdentityService.HttpApi.Client.ConsoleTestApp.abppkg.json",
+      "folder": "test"
+    },
+    "antosubash.IdentityService.AuthServer": {
+      "path": "host/antosubash.IdentityService.AuthServer/antosubash.IdentityService.AuthServer.abppkg.json",
+      "folder": "host"
+    },
+    "antosubash.IdentityService.Host.Shared": {
+      "path": "host/antosubash.IdentityService.Host.Shared/antosubash.IdentityService.Host.Shared.abppkg.json",
+      "folder": "host"
+    }
+  }
+}

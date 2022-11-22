@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <Import Project="..\..\common.props" />
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>antosubash.SaaSService</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Volo.Abp.AspNetCore.Mvc" Version="6.0.1" />
+    <PackageReference Include="Volo.Abp.TenantManagement.HttpApi" Version="6.0.1" />
+    <ProjectReference Include="..\antosubash.SaaSService.Application.Contracts\antosubash.SaaSService.Application.Contracts.csproj" />
+  </ItemGroup>
+
+</Project>
