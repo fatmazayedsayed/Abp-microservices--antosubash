@@ -6,3 +6,5 @@ from power shell run .\init.ps1 {folder_name} that will create the solution
 open antosubash.Shared.Hosting project
 create itemGroup section-> add the required packages
 then save the file to install the packages 
+create HostingModule file to host all required modules(to use it the project as as reference for all of them) and setting up used languages
+
