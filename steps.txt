@@ -7,4 +7,8 @@ open antosubash.Shared.Hosting project
 create itemGroup section-> add the required packages
 then save the file to install the packages 
 create HostingModule file to host all required modules(to use it the project as as reference for all of them) and setting up used languages
-
+--------------------------
+open project antosubash.AdministrationService.HttpApi.Host  and try to build it 
+remove the dependancy of antosubash.AdministrationService.Host.Shared
+then add     \antosubash.Shared.Hosting project
+fix the dependancies + remove repeated code

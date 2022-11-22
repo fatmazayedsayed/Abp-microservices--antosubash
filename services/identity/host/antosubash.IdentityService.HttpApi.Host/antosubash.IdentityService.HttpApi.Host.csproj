@@ -32,8 +32,7 @@
     <ProjectReference Include="..\..\src\antosubash.IdentityService.HttpApi\antosubash.IdentityService.HttpApi.csproj" />
     <ProjectReference Include="..\..\src\antosubash.IdentityService.Application\antosubash.IdentityService.Application.csproj" />
     <ProjectReference Include="..\..\src\antosubash.IdentityService.EntityFrameworkCore\antosubash.IdentityService.EntityFrameworkCore.csproj" />
-    <ProjectReference Include="..\antosubash.IdentityService.Host.Shared\antosubash.IdentityService.Host.Shared.csproj" />
-  </ItemGroup>
+   </ItemGroup>
 
   <ItemGroup>
     <Compile Remove="Logs\**" />

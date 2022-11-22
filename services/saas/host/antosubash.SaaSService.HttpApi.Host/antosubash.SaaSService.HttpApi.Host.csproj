@@ -29,11 +29,11 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\..\..\shared\antosubash.Shared.Hosting\antosubash.Shared.Hosting.csproj" />
     <ProjectReference Include="..\..\src\antosubash.SaaSService.HttpApi\antosubash.SaaSService.HttpApi.csproj" />
     <ProjectReference Include="..\..\src\antosubash.SaaSService.Application\antosubash.SaaSService.Application.csproj" />
     <ProjectReference Include="..\..\src\antosubash.SaaSService.EntityFrameworkCore\antosubash.SaaSService.EntityFrameworkCore.csproj" />
-    <ProjectReference Include="..\antosubash.SaaSService.Host.Shared\antosubash.SaaSService.Host.Shared.csproj" />
-  </ItemGroup>
+   </ItemGroup>
 
   <ItemGroup>
     <Compile Remove="Logs\**" />

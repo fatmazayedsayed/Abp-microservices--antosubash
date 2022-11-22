@@ -47,8 +47,7 @@
     <PackageReference Include="Volo.Abp.TenantManagement.Application" Version="6.0.1" />
     <PackageReference Include="Volo.Abp.TenantManagement.HttpApi" Version="6.0.1" />
     <ProjectReference Include="..\..\src\antosubash.IdentityService.Application.Contracts\antosubash.IdentityService.Application.Contracts.csproj" />
-    <ProjectReference Include="..\antosubash.IdentityService.Host.Shared\antosubash.IdentityService.Host.Shared.csproj" />
-  </ItemGroup>
+   </ItemGroup>
 
   <ItemGroup>
     <Compile Remove="Logs\**" />
