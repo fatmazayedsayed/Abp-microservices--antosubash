@@ -1,0 +1,12 @@
+D:\Help Projects\ABP\antosubash\shared\antosubash.Shared.Hosting\bin\Debug\net6.0\antosubash.Shared.Hosting.deps.json
+D:\Help Projects\ABP\antosubash\shared\antosubash.Shared.Hosting\bin\Debug\net6.0\antosubash.Shared.Hosting.dll
+D:\Help Projects\ABP\antosubash\shared\antosubash.Shared.Hosting\bin\Debug\net6.0\antosubash.Shared.Hosting.pdb
+D:\Help Projects\ABP\antosubash\shared\antosubash.Shared.Hosting\obj\Debug\net6.0\antosubash.Shared.Hosting.csproj.AssemblyReference.cache
+D:\Help Projects\ABP\antosubash\shared\antosubash.Shared.Hosting\obj\Debug\net6.0\antosubash.Shared.Hosting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Help Projects\ABP\antosubash\shared\antosubash.Shared.Hosting\obj\Debug\net6.0\antosubash.Shared.Hosting.AssemblyInfoInputs.cache
+D:\Help Projects\ABP\antosubash\shared\antosubash.Shared.Hosting\obj\Debug\net6.0\antosubash.Shared.Hosting.AssemblyInfo.cs
+D:\Help Projects\ABP\antosubash\shared\antosubash.Shared.Hosting\obj\Debug\net6.0\antosubash.Shared.Hosting.csproj.CoreCompileInputs.cache
+D:\Help Projects\ABP\antosubash\shared\antosubash.Shared.Hosting\obj\Debug\net6.0\antosubash.Shared.Hosting.dll
+D:\Help Projects\ABP\antosubash\shared\antosubash.Shared.Hosting\obj\Debug\net6.0\refint\antosubash.Shared.Hosting.dll
+D:\Help Projects\ABP\antosubash\shared\antosubash.Shared.Hosting\obj\Debug\net6.0\antosubash.Shared.Hosting.pdb
+D:\Help Projects\ABP\antosubash\shared\antosubash.Shared.Hosting\obj\Debug\net6.0\ref\antosubash.Shared.Hosting.dll

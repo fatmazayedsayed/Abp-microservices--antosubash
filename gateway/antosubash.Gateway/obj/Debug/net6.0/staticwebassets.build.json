@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "R5L4IFiUoyBX4vGa4ZGhWWwYEaQLvuwP3krtvoZsNPY=",
+  "Source": "antosubash.Gateway",
+  "BasePath": "_content/antosubash.Gateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

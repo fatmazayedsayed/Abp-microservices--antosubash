@@ -1,0 +1,15 @@
+D:\Help Projects\ABP\antosubash\shared\antosubash.DbMigrator\bin\Debug\net6.0\antosubash.DbMigrator.exe
+D:\Help Projects\ABP\antosubash\shared\antosubash.DbMigrator\bin\Debug\net6.0\antosubash.DbMigrator.deps.json
+D:\Help Projects\ABP\antosubash\shared\antosubash.DbMigrator\bin\Debug\net6.0\antosubash.DbMigrator.runtimeconfig.json
+D:\Help Projects\ABP\antosubash\shared\antosubash.DbMigrator\bin\Debug\net6.0\antosubash.DbMigrator.dll
+D:\Help Projects\ABP\antosubash\shared\antosubash.DbMigrator\bin\Debug\net6.0\antosubash.DbMigrator.pdb
+D:\Help Projects\ABP\antosubash\shared\antosubash.DbMigrator\obj\Debug\net6.0\antosubash.DbMigrator.csproj.AssemblyReference.cache
+D:\Help Projects\ABP\antosubash\shared\antosubash.DbMigrator\obj\Debug\net6.0\antosubash.DbMigrator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Help Projects\ABP\antosubash\shared\antosubash.DbMigrator\obj\Debug\net6.0\antosubash.DbMigrator.AssemblyInfoInputs.cache
+D:\Help Projects\ABP\antosubash\shared\antosubash.DbMigrator\obj\Debug\net6.0\antosubash.DbMigrator.AssemblyInfo.cs
+D:\Help Projects\ABP\antosubash\shared\antosubash.DbMigrator\obj\Debug\net6.0\antosubash.DbMigrator.csproj.CoreCompileInputs.cache
+D:\Help Projects\ABP\antosubash\shared\antosubash.DbMigrator\obj\Debug\net6.0\antosubash.DbMigrator.dll
+D:\Help Projects\ABP\antosubash\shared\antosubash.DbMigrator\obj\Debug\net6.0\refint\antosubash.DbMigrator.dll
+D:\Help Projects\ABP\antosubash\shared\antosubash.DbMigrator\obj\Debug\net6.0\antosubash.DbMigrator.pdb
+D:\Help Projects\ABP\antosubash\shared\antosubash.DbMigrator\obj\Debug\net6.0\antosubash.DbMigrator.genruntimeconfig.cache
+D:\Help Projects\ABP\antosubash\shared\antosubash.DbMigrator\obj\Debug\net6.0\ref\antosubash.DbMigrator.dll

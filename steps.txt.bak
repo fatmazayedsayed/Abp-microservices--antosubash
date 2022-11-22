@@ -1,0 +1,7 @@
+https://community.abp.io/videos/.net-microservice-with-abp-full-series-m6opqjb1
+create empty folder->open it inside vs code
+create file init.ps1->paste the code inside it
+from power shell run .\init.ps1 {folder_name} that will create the solution
+--------------------------
+open antosubash.Shared.Hosting project
+create itemGroup section-> add the required packages
